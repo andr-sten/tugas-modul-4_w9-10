@@ -1,16 +1,71 @@
-# data_playground
+# 🧩 Data Playground  
+**Nama:** Andrean Syah Putra  
+**NIM:** STI202303719  
+**Proyek:** data_playground  
+**Modul W9–10 – Flutter: Data Storage (Shared Preferences, File, SQLite, ORM, REST API)**  
 
-A new Flutter project.
+---
 
-## Getting Started
+## 1. ⚙️ Halaman Shared Preferences
+Menampilkan form input sederhana, pengaturan **Dark Mode**, dan tombol **ekspor preferensi** ke file JSON.  
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="assets/image/prefs.jpg" width="300"><br>
+  <em>Gambar  Tampilan Halaman Shared Preferences</em>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <img src="assets/image/prefsdark.jpg" width="300"><br>
+  <em>Gambar  Tampilan Halaman Dark Mode</em>
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 2. 📁 Halaman File Storage (profile.json)
+Menampilkan form data profil dan hasil baca dari file `profile.json` di folder dokumen.  
+
+<p align="center">
+  <img src="assets/image/profile.jpg" width="300"><br>
+  <em>Gambar  Tampilan Halaman profile</em>
+</p>
+
+---
+
+## 3. 🗃️ Halaman SQLite (sqflite)
+Menampilkan daftar data dengan fitur **pencarian** dan **paging** (memuat data bertahap).  
+
+<p align="center">
+  <img src="assets/image/sqflite.jpg" width="300"><br>
+  <em>Gambar  Tampilan Halaman SQLite</em>
+</p>
+
+---
+
+## 4. 🧱 Halaman ORM (Floor)
+Menerapkan **CRUD menggunakan ORM Floor** dengan data yang **reaktif** (otomatis memperbarui tampilan).  
+
+<p align="center">
+  <img src="assets/image/floor.jpg" width="300"><br>
+  <em>Gambar  Tampilan Halaman ORM (Floor)</em>
+</p>
+
+---
+
+## 5. 🌐 Halaman REST API
+Menerapkan **CRUD penuh menggunakan API** dengan tampilan daftar data dan **pesan error** jika gagal memuat.  
+
+<p align="center">
+  <img src="assets/image/apirun.jpg" width="300"><br>
+  <em>Gambar  Tampilan Halaman Daftar Data</em>
+</p>
+
+---
+
+<p align="center">
+  <img src="assets/image/errorapi.jpg" width="300"><br>
+  <em>Gambar  Tampilan Halaman Pesan Error Api</em>
+</p>
+
+---
