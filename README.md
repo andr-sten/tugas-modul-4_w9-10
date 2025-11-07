@@ -10,14 +10,14 @@
 Menampilkan form input sederhana, pengaturan **Dark Mode**, dan tombol **ekspor preferensi** ke file JSON.  
 
 <p align="center">
-  <img src="assets/image/prefs.jpg" width="300"><br>
+  <img src="assets/images/prefs.jpg" width="300"><br>
   <em>Gambar  Tampilan Halaman Shared Preferences</em>
 </p>
 
 ---
 
 <p align="center">
-  <img src="assets/image/prefsdark.jpg" width="300"><br>
+  <img src="assets/images/prefsdark.jpg" width="300"><br>
   <em>Gambar  Tampilan Halaman Dark Mode</em>
 </p>
 
@@ -27,7 +27,7 @@ Menampilkan form input sederhana, pengaturan **Dark Mode**, dan tombol **ekspor 
 Menampilkan form data profil dan hasil baca dari file `profile.json` di folder dokumen.  
 
 <p align="center">
-  <img src="assets/image/profile.jpg" width="300"><br>
+  <img src="assets/images/profile.jpg" width="300"><br>
   <em>Gambar  Tampilan Halaman profile</em>
 </p>
 
@@ -37,7 +37,7 @@ Menampilkan form data profil dan hasil baca dari file `profile.json` di folder d
 Menampilkan daftar data dengan fitur **pencarian** dan **paging** (memuat data bertahap).  
 
 <p align="center">
-  <img src="assets/image/sqflite.jpg" width="300"><br>
+  <img src="assets/images/sqflite.jpg" width="300"><br>
   <em>Gambar  Tampilan Halaman SQLite</em>
 </p>
 
@@ -47,7 +47,7 @@ Menampilkan daftar data dengan fitur **pencarian** dan **paging** (memuat data b
 Menerapkan **CRUD menggunakan ORM Floor** dengan data yang **reaktif** (otomatis memperbarui tampilan).  
 
 <p align="center">
-  <img src="assets/image/floor.jpg" width="300"><br>
+  <img src="assets/images/floor.jpg" width="300"><br>
   <em>Gambar  Tampilan Halaman ORM (Floor)</em>
 </p>
 
@@ -57,14 +57,14 @@ Menerapkan **CRUD menggunakan ORM Floor** dengan data yang **reaktif** (otomatis
 Menerapkan **CRUD penuh menggunakan API** dengan tampilan daftar data dan **pesan error** jika gagal memuat.  
 
 <p align="center">
-  <img src="assets/image/apirun.jpg" width="300"><br>
+  <img src="assets/images/apirun.jpg" width="300"><br>
   <em>Gambar  Tampilan Halaman Daftar Data</em>
 </p>
 
 ---
 
 <p align="center">
-  <img src="assets/image/errorapi.jpg" width="300"><br>
+  <img src="assets/images/errorapi.jpg" width="300"><br>
   <em>Gambar  Tampilan Halaman Pesan Error Api</em>
 </p>
 
