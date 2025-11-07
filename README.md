@@ -37,8 +37,15 @@ Menampilkan form data profil dan hasil baca dari file `profile.json` di folder d
 Menampilkan daftar data dengan fitur **pencarian** dan **paging** (memuat data bertahap).  
 
 <p align="center">
-  <img src="assets/images/sqflite.jpg" width="300"><br>
-  <em>Gambar  Tampilan Halaman SQLite</em>
+  <img src="assets/images/sqflite2.jpg" width="300"><br>
+  <em>Gambar  Tampilan Halaman SQFLite</em>
+</p>
+
+---
+
+<p align="center">
+  <img src="assets/images/sqflitecari.jpg" width="300"><br>
+  <em>Gambar  Tampilan Halaman Cari SQLite</em>
 </p>
 
 ---
