@@ -71,7 +71,7 @@ Menerapkan **CRUD penuh menggunakan API** dengan tampilan daftar data dan **pesa
 ---
 
 <p align="center">
-  <img src="assets/images/errorapi.jpg" width="300"><br>
+  <img src="assets/images/apifailure.jpg" width="300"><br>
   <em>Gambar  Tampilan Halaman Pesan Error Api</em>
 </p>
 
